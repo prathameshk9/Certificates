@@ -2,24 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=150&section=header&animation=fadeIn" alt="Decorative header banner" width="100%" />
 
-<h1><b>🎓 CERTIFICATES</b></h1>
+<h1><b>🎓 CERTIFICATES & ACHIEVEMENTS</b></h1>
 
 <h3><b>Prathamesh Kulkarni</b></h3>
 
-<p>C# / .NET Developer &nbsp;|&nbsp; Security Testing &nbsp;|&nbsp; Network Support</p>
+<p>C# / .NET Developer &nbsp;|&nbsp; Cybersecurity &nbsp;|&nbsp; Network Support</p>
 
 <p>
   <a href="https://www.linkedin.com/in/prathameshk9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/prathameshk9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="#certificates">
   <img src="https://img.shields.io/badge/Certificates-2-00C9A7?style=for-the-badge" alt="Certificates: 2" />
+</a>
 </p>
 
 </div>
 
 <hr />
 
-## 📜 My Certificates
-
+<h2 id="certificates">📜 My Certificates</h2>
 <table>
   <tr>
     <td width="50%" valign="top">
