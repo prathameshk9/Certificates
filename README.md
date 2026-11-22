@@ -1,2 +1,77 @@
-# Certificates
-Full Stack Developer (upGrad Campus) and Cyber Security &amp; Threat Hunting Training (Cyber Sapiens United LLP).
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=150&section=header&animation=fadeIn" alt="Decorative header banner" width="100%" />
+
+<h1><b>🎓 CERTIFICATES</b></h1>
+
+<h3><b>Prathamesh Kulkarni</b></h3>
+
+<p>C# / .NET Developer &nbsp;|&nbsp; Security Testing &nbsp;|&nbsp; Network Support</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/prathameshk9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/prathameshk9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Certificates-2-00C9A7?style=for-the-badge" alt="Certificates: 2" />
+</p>
+
+</div>
+
+<hr />
+
+## 📜 My Certificates
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Full Stack Developer</h3>
+      <p><b>Issuer:</b> upGrad Campus<br />
+      <b>Date:</b> February 2023<br />
+      <b>Focus:</b> Full-stack web development</p>
+      <p>
+        <a href="Full_Stack_Developer_upGrad.pdf"><img src="https://img.shields.io/badge/View_PDF-0A66C2?style=for-the-badge" alt="View PDF" /></a>
+        <a href="https://certificate.givemycertificate.com/c/4322c029-0a55-4c1d-a501-3c3c4cbf5046"><img src="https://img.shields.io/badge/Verify-00C9A7?style=for-the-badge" alt="Verify online" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 Cyber Security &amp; Threat Hunting Training</h3>
+      <p><b>Issuer:</b> Cyber Sapiens United LLP<br />
+      <b>Dates:</b> June to December 2025<br />
+      <b>Credential ID:</b> S1615<br />
+      <b>Focus:</b> Web, API, Android and iOS vulnerability assessment and penetration testing; network VAPT; SIEM; cloud security; GRC</p>
+      <p>
+        <a href="Cyber_Security_Threat_Hunting_Cyber_Sapiens.pdf"><img src="https://img.shields.io/badge/View_PDF-0A66C2?style=for-the-badge" alt="View PDF" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr />
+
+## 🛠️ Skills Behind the Certificates
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+</p>
+
+<hr />
+
+## ✅ How to Verify
+
+1. Click **View PDF** to open the certificate file.
+2. Use the **Verify** button where the issuer provides an online check.
+3. For the Cyber Sapiens certificate, quote credential ID **S1615** when contacting the issuer.
+4. Questions? Message me on [LinkedIn](https://www.linkedin.com/in/prathameshk9).
+
+<hr />
+
+<div align="center">
+  <sub>Certificates are shared for verification purposes. Personal details may be hidden.</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0A66C2&height=100&section=footer" alt="Decorative footer banner" width="100%" />
