@@ -20,28 +20,41 @@
 
 <hr />
 
-<h2 id="certificates">📜 My Certificates</h2>
+
+<h2 id="certificates">📜 Certifications</h2>
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>💻 Full Stack Developer</h3>
-      <p><b>Issuer:</b> upGrad Campus<br />
-      <b>Date:</b> February 2023<br />
-      <b>Focus:</b> Full-stack web development</p>
+      <p><b>upGrad Campus</b></p>
       <p>
-        <a href="Full_Stack_Developer_upGrad.pdf"><img src="https://img.shields.io/badge/View_PDF-0A66C2?style=for-the-badge" alt="View PDF" /></a>
-        <a href="https://certificate.givemycertificate.com/c/4322c029-0a55-4c1d-a501-3c3c4cbf5046"><img src="https://img.shields.io/badge/Verify-00C9A7?style=for-the-badge" alt="Verify online" /></a>
-      </p>
+  <strong>📅 February 2023</strong>
+</p>
+      <p>Full-stack web development</p>
+      <a href="Full_Stack_Developer_upGrad.pdf">
+        <img src="https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Certificate" />
+      </a>
+      <a href="https://certificate.givemycertificate.com/c/4322c029-0a55-4c1d-a501-3c3c4cbf5046">
+        <img src="https://img.shields.io/badge/Verify_Certificate-00A884?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verify Certificate" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 Cyber Security &amp; Threat Hunting Training</h3>
-      <p><b>Issuer:</b> Cyber Sapiens United LLP<br />
-      <b>Dates:</b> June to December 2025<br />
-      <b>Credential ID:</b> S1615<br />
-      <b>Focus:</b> Web, API, Android and iOS vulnerability assessment and penetration testing; network VAPT; SIEM; cloud security; GRC</p>
+      <h3>🔐 Cyber Security & Threat Hunting</h3>
+      <p><b>Cyber Sapiens United LLP</b></p>
       <p>
-        <a href="Cyber_Security_Threat_Hunting_Cyber_Sapiens.pdf"><img src="https://img.shields.io/badge/View_PDF-0A66C2?style=for-the-badge" alt="View PDF" /></a>
-      </p>
+<p>
+  <strong>📅 June – December 2025</strong>
+</p>  
+<p>
+  <strong>🔐 Certificate ID</strong> : 
+  <code>S1615</code>
+</p>
+</p>
+      <p>VAPT · Web & API Security · Mobile Security · Network · SIEM · Cloud · GRC</p>
+      <a href="Cyber_Security_Threat_Hunting_Cyber_Sapiens.pdf">
+        <img src="https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Certificate" />
+      </a>
     </td>
   </tr>
 </table>
